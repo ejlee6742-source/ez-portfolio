@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ejlee6742-source.github.io/ez-portfolio",
+  "homepage": "https://ejlee6742.github.io/ez-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
