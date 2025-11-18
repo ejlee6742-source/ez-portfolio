@@ -7,7 +7,7 @@ export default function Projects(){
     
     async function loadJsonData() {
         try {
-            const res = await fetch("/data/projects.json");
+            const res = await fetch("/ez-portfolio/data/projects.json");
             const data = await res.json();
             setProjects(data);
         } catch(error){
